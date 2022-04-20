@@ -5,6 +5,7 @@
 
 # Commands to run before start test
 pip install -r requirements.txt
+
 sbase install chromedriver latest
 
 # How to run single feature file
